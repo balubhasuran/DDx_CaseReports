@@ -70,7 +70,7 @@ You can download the **PMC-Patients** dataset and submit your models at the foll
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/balubhasuran/DDx_CaseReports.git
    cd your-repo-name
    ```
 
