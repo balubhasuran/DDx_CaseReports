@@ -52,7 +52,7 @@ This repository contains code and datasets for the study titled **"Evaluating th
 
 ### Download and Contribution
 
-You can download the **PMC-Patients** dataset and submit your models at the following link:  
+You can download the **PMC-Patients** dataset from the following link:  
 [https://pmc-patients.github.io/](https://pmc-patients.github.io/)
 
 ---
